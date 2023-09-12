@@ -1,4 +1,7 @@
-﻿using System;
+﻿/* Author: Aditya Eswaran
+   Date: November 2018
+*/
+using System;
 
 namespace HalloweenProjectCS {
     class Program {
