@@ -1,37 +1,28 @@
 # My First Steps in C# (2018)
 
-Contents orginally created from August 2018 - January 2019
+Contents originally created from August 2018 - January 2019
 
 ## 🚀A bit about this repository.
 
- Wlcome to my high school coding journey! This GitHub repository is a nostalgic collection of projects I embarked on in 2018, marking the beginning of my programming adventure. These projects were crafted using C#, the language that ignited my passion for computer science and led me to pursue it in college at the University of Maryland - College Park.
-
+Welcome to my high school coding journey! This GitHub repository is a collection of projects I created in 2018, marking the beginning of my programming experience. These projects were created using C#, the language that ignited my passion for computer science and led me to pursue it in college at the University of Maryland - College Park.
 ## 💡 Why?
 
-These projects are not just a showcase of my early work but also a testament to the power of curiosity and dedication. Discover how my high school journey with C# shaped my thinking, cultivated my problem-solving abilities, and set me on the path to a Computer Science degree.
+These projects are not just a showcase of my early work but also highlight my curiosity and dedication over the years. Discover how my high school journey with C# improved my technological skillset and set me on the path to a Computer Science degree.
 
-## 🌟 Featured Projects:
+## 🌟 Featured Project:
 
-1️⃣ **Project A - The Game Changer**
+1️⃣ **Dworf Forest**
 
-- An exciting game built from scratch in C# that was my very first coding endeavor. Witness my progress from a complete beginner to a budding developer.
-
-2️⃣ **Project B - Data-driven App**
-
-- A data-driven Windows application demonstrating my growing skills in C#. Explore how I leveraged the language to create an intuitive user interface and interact with databases.
-
-3️⃣ **Project C - Algorithmic Prowess**
-
-- Dive into the world of algorithms and problem-solving with this project. See how I utilized C# to tackle complex computational challenges and develop efficient solutions.
+In high school, my computer science teacher had a passion for fantasy MMOs, which greatly inspired the idea behind this project. Using a main player, called a dworf, the player would need to be able to walk in a top-down world and transform the terrain. This project furthered my understanding of arrays, classes, and other attributes of C#.
 
 ## 📚 Looking Forward:
 
-I've come a long way since these projects, but they hold a special place in my heart as they represent the beginning of my coding odyssey. Explore them, learn from my early experiences, and join me on my ongoing journey through the world of software development.
+I've come a long way since these projects, but these represent the beginning of my coding endeavor. Join me on my ongoing journey through the world of software development.
 
 ____
 
 ✉️ Contact:
 📧 Email: adityareswaran@gmail.com
-🌐 LinkedIn: [Your LinkedIn Profile]
+🌐 LinkedIn: www.linkedin.com/in/aditya-eswaran
 
-🙏 Thank you for visiting my GitHub repository and being a part of my coding evolution! 🚀👨‍💻
+🙏 Thank you for visiting my High School GitHub repository! 🚀👨‍💻
